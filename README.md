@@ -4,7 +4,7 @@
 
 [CODEPEN](https://codepen.io/Loopez10/pen/QNJdeX)
 
-Text shadow depending of the light focus. I made it with CSS and JS using multiple text shadow property, creating a 3D effect.
+Text shadow depending on the light focus. I made it with CSS and JS using multiple text shadow property, creating a 3D effect.
 
 ![alt text](./img/preview.png)
 
