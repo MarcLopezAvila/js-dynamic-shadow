@@ -9,7 +9,7 @@ html {
 
 body {
     background: #ccc;
-    background: url('./img/background.jpg');
+    background: url('../img/background.jpg');
     background-size: cover;
     height: 100%;
     cursor: none;
@@ -32,7 +32,7 @@ h1 {
 
 #lantern {
     position: fixed;
-    background: url('./img/glowstick.png') no-repeat;
+    background: url('../img/glowstick.png') no-repeat;
     background-size: contain;
     width: 150px;
     height: 140px;
